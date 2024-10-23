@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ar-science-kids/static/css/main.e6c13ad2.css",
-    "main.js": "/ar-science-kids/static/js/main.a00a18c5.js",
+    "main.js": "/ar-science-kids/static/js/main.58ed3245.js",
     "static/js/453.b2cbbe71.chunk.js": "/ar-science-kids/static/js/453.b2cbbe71.chunk.js",
     "index.html": "/ar-science-kids/index.html",
     "main.e6c13ad2.css.map": "/ar-science-kids/static/css/main.e6c13ad2.css.map",
-    "main.a00a18c5.js.map": "/ar-science-kids/static/js/main.a00a18c5.js.map",
+    "main.58ed3245.js.map": "/ar-science-kids/static/js/main.58ed3245.js.map",
     "453.b2cbbe71.chunk.js.map": "/ar-science-kids/static/js/453.b2cbbe71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a00a18c5.js"
+    "static/js/main.58ed3245.js"
   ]
 }
